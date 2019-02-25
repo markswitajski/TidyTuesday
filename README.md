@@ -1,3 +1,3 @@
 ### TidyTuesday
 
-My participation in the weekly \#TidyTuesday challenge on Twitter.
+My participation in the weekly \#TidyTuesday community on Twitter.
